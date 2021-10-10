@@ -7,7 +7,7 @@
 [typed](https://www.python.org/dev/peps/pep-0484/) Python projects which use
 [poetry](https://python-poetry.org/) for dependency management and packaging.
 
-In addition, a set of common development tools is pre-installed:
+In addition, a set of commonly-used development tools is pre-installed:
 
 * `black`
 * `isort`
